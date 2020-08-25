@@ -1,17 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.ServiceProcess;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.ServiceProcess;
+
 
 namespace LocalWindowService
 {
-    static class Program
-    {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
+  static class Program
+    {     
+        /// The main entry point for the application.      
         static void Main()
         {
             ServiceBase[] ServicesToRun;
@@ -20,6 +14,6 @@ namespace LocalWindowService
                 new Service1()
             };
             ServiceBase.Run(ServicesToRun);
-        }
+        }      
     }
 }

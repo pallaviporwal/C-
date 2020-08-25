@@ -16,14 +16,8 @@ namespace LocalWindowService
         protected override void OnStart(string[] args)
         {
             WriteToFile("Service is Started at" + DateTime.Now);
-            //timer.Elapsed += new ElapsedEventHandler(OnElapsedTime);
-            //timer.Interval = 60000;   // Service will call every 60 Seconds
-            //timer.Enabled = true;
-        }
-        //private void OnElapsedTime(object source, ElapsedEventArgs e)
-        //{
-        //    WriteToFile("Service is recall at " + DateTime.Now);
-        //}
+            Server.StartServer();           
+        }       
         public void WriteToFile(string message)
         {
             string path = AppDomain.CurrentDomain.BaseDirectory + "\\Logs";

@@ -24,3 +24,59 @@ Affected parameters are:
    logtoconsole = 
    logfile = E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.InstallLog
    assemblypath = E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.exe
+Uninstalling assembly 'E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.InstallLog
+   assemblypath = E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.InstallLog
+   assemblypath = E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.InstallLog
+   assemblypath = E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.exe
+Uninstalling assembly 'E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.InstallLog
+   assemblypath = E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.InstallLog
+   assemblypath = E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.InstallLog
+   assemblypath = E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.exe
+Installing assembly 'E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.InstallLog
+   assemblypath = E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.InstallLog
+   assemblypath = E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.exe
+Restoring event log to previous state for source Service1.
