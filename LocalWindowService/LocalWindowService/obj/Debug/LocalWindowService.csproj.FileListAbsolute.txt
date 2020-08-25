@@ -1,0 +1,9 @@
+E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.exe.config
+E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.exe
+E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.pdb
+E:\Projects\LocalWindowService\LocalWindowService\obj\Debug\LocalWindowService.csprojAssemblyReference.cache
+E:\Projects\LocalWindowService\LocalWindowService\obj\Debug\LocalWindowService.ProjectInstaller.resources
+E:\Projects\LocalWindowService\LocalWindowService\obj\Debug\LocalWindowService.csproj.GenerateResource.cache
+E:\Projects\LocalWindowService\LocalWindowService\obj\Debug\LocalWindowService.csproj.CoreCompileInputs.cache
+E:\Projects\LocalWindowService\LocalWindowService\obj\Debug\LocalWindowService.exe
+E:\Projects\LocalWindowService\LocalWindowService\obj\Debug\LocalWindowService.pdb

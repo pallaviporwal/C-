@@ -1,0 +1,26 @@
+﻿Installing assembly 'E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.InstallLog
+   assemblypath = E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.InstallLog
+   assemblypath = E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.InstallLog
+   assemblypath = E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.InstallLog
+   assemblypath = E:\Projects\LocalWindowService\LocalWindowService\bin\Debug\LocalWindowService.exe

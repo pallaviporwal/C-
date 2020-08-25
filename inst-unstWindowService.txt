@@ -1,0 +1,20 @@
+Installing a Windows Service
+ 
+Fire the below command in the command prompt.
+ 
+cd C:\Windows\Microsoft.NET\Framework\v4.0.30319 
+
+and then - 
+ 
+InstallUtil.exe + Your copied path + \your service name + .exe
+ 
+Mean Our path is like -
+ 
+InstallUtil.exe C:\Users\Faisal-Pathan\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+
+
+(If Uninstalling a Windows Service ) -
+ 
+If you want to uninstall your service, fire the below command.
+Syntax InstallUtil.exe -u + Your copied path + \your service name + .exe
+Our path InstallUtil.exe -u C:\Users\Faisal-Pathan\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
